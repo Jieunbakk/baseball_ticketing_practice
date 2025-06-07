@@ -4,6 +4,11 @@ This is a practice program for baseball ticketing, designed to simulate the expe
 
 ## Compilation and Execution
 
+```bash
+sudo apt update
+sudo apt install libncurses5-dev libncursesw5-dev
+```
+
 To compile the program, use the following command in your terminal:
 
 ```bash
